@@ -8,27 +8,17 @@
 
 ### Objective
  
-1. **Top 10 most popular songs on Spotify**
-
-2. **Top 10 least popular songs on Spotify**
  
-3. **Correlation Heatmap between Variable**
-  <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Correlation%20Heatmap%20between%20Variable.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+1. **% of rides for each user type**
+  <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/%25%20of%20rides%20for%20each%20user%20type.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
  
-4. **Regression plot - Correlation between Loudness and Energy**
+2. **The number of rides provided on weekdays**
   <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Regression%20plot%20-%20Correlation%20between%20Loudness%20and%20Energy.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
  
-5. **Regression plot - Correlation between Popularity and Acousticness**
+3. **Average ride duration given weekday**
  <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Regression%20plot%20-%20Correlation%20between%20Popularity%20and%20Acousticness.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
  
-6. **Distibution plot - Visualize total number of songs on Spotify since 1992**
+4. **The number of rides given season**
  <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Distibution%20plot%20-%20Visualize%20total%20number%20of%20songs%20on%20Spotify%20since%201992.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
  
-7. **Change in Duration of songs wrt Years**
- <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Change%20in%20Duration%20of%20songs%20wrt%20Years.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
- 
-8. **Duration of songs in different Genres**
- <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Duration%20of%20songs%20in%20different%20Genres.png" width="80%" height="80%"/> </a> </p>
- 
-9. **Top 5 Genres by Popularity**
- <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Top%205%20Genres%20by%20Popularity.png" width="80%" height="80%"/> </a> </p>
+

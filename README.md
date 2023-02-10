@@ -6,6 +6,25 @@
 
 * <a href="https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python">Statistics</a><a href="https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/66DaysOfData/c8c040f1c85d921db317152567f331354446286a/statistics-21.svg" alt="Statistics" width="25" height="25"/> </a>
 
+##### Python Libraries : 
+* <a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises">Pandas</a><a href="https://github.com/mrankitgupta/Kaggle-Pandas-Solved-Exercises" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="20"/> </a> |  <a href="https://matplotlib.org/">Matplotlib</a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/1331979c3208a15be2c2a6177ffc38ced3d6b434/Matplotlib_icon.svg" alt="matplotlib" width="25" height="20"/> </a> |  <a href="https://seaborn.pydata.org">Seaborn</a><a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="25" height="20"/> </a> 
+
+<h3 align="left">My Certifications 📜 🎓 ✔️</h3>
+
+- [Data Science Foundations](https://olympus1.mygreatlearning.com/course_certificate/HOBNRYZJ) - by Great Learning
+
+- [Google Data Analytics Professional Certificate](https://www.credly.com/badges/d2e30cc0-ed5e-4b8b-a23f-2079eb853740/linked_in_profile) - by Google
+
+- [Data Science with Python](https://www.kaggle.com/learn/certification/sahrul59/python) - by Kaggle
+
+- [SQL for Data Analytics](https://www.w3profile.com/sahrul59) - by W3schools
+
+- [SQL and Python Certificate](https://www.hackerrank.com/sahrul59) - by HackerRank
+
+- [Data Visualization with Tableau](https://simpli-web.app.link/e/nVEkRMLUfxb) - by Simplilearn
+ 
+<h3 align="left">Connect with me 🔗</h3>
+
 ### Objective
  
  

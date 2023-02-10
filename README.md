@@ -38,8 +38,7 @@ This case study is part of the Google Data Analytics Professional Certificate. T
 - [SQL and Python Certificate](https://www.hackerrank.com/sahrul59) - by HackerRank
 
 - [Data Visualization with Tableau](https://simpli-web.app.link/e/nVEkRMLUfxb) - by Simplilearn
- 
-<h3 align="left">Connect with me 🔗</h3>
+
 
 ### Objective
  

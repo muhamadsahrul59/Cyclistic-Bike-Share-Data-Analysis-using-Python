@@ -4,7 +4,7 @@
 
 ### Introduction 
 
-<p align="center"> <a href="https://www.kaggle.com/code/sahrul59/cyclistic-bike-share-data-analysis-using-python" target="_blank"> <img src="http" alt="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/dataset-cover.jpg" width="50%" height="10%"/> </a> </p>
+<p align="center"> <a href="https://open.spotify.com/user/exll9wa5yql2llqyi1k5h56qm?si=YkkYuaD7SN60DMjXWo7eTQ&utm_source=copy-link" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/dataset-cover.png" alt="Cyclistic" width="50%" height="10%"/> </a> </p>
 
 This case study is part of the Google Data Analytics Professional Certificate. The certificate program covers the data analysis process, as defined by Google:
 
@@ -45,15 +45,15 @@ This case study is part of the Google Data Analytics Professional Certificate. T
  
  
 1. **% of rides for each user type**
-  <p align="center"> <a href="https://www.kaggle.com/code/sahrul59/cyclistic-bike-share-data-analysis-using-python" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/%25%20of%20rides%20for%20each%20user%20type.png" alt="Spotify Data Analysis using Python" width="40%" height="40%"/> </a> </p>
+  <p align="center"> <a href="https://www.kaggle.com/code/sahrul59/cyclistic-bike-share-data-analysis-using-python" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/%25%20of%20rides%20for%20each%20user%20type.png" alt="Cyclistic Bike Share" width="40%" height="40%"/> </a> </p>
  
 2. **The number of rides provided on weekdays**
-  <p align="center"> <a href="https://www.kaggle.com/code/sahrul59/cyclistic-bike-share-data-analysis-using-python" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/The%20number%20of%20rides%20provided%20on%20weekdays.png" alt="Spotify Data Analysis using Python" width="40%" height="40%"/> </a> </p>
+  <p align="center"> <a href="https://www.kaggle.com/code/sahrul59/cyclistic-bike-share-data-analysis-using-python" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/The%20number%20of%20rides%20provided%20on%20weekdays.png" alt="Cyclistic Bike Share" width="40%" height="40%"/> </a> </p>
  
 3. **Average ride duration given weekday**
- <p align="center"> <a href="https://www.kaggle.com/code/sahrul59/cyclistic-bike-share-data-analysis-using-python" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/Average%20ride%20duration%20given%20weekday.png" alt="Spotify Data Analysis using Python" width="40%" height="40%"/> </a> </p>
+ <p align="center"> <a href="https://www.kaggle.com/code/sahrul59/cyclistic-bike-share-data-analysis-using-python" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/Average%20ride%20duration%20given%20weekday.png" alt="Cyclistic Bike Share" width="40%" height="40%"/> </a> </p>
  
 4. **The number of rides given season**
- <p align="center"> <a href="https://www.kaggle.com/code/sahrul59/cyclistic-bike-share-data-analysis-using-python" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/The%20number%20of%20rides%20given%20season.png" alt="Spotify Data Analysis using Python" width="40%" height="40%"/> </a> </p>
+ <p align="center"> <a href="https://www.kaggle.com/code/sahrul59/cyclistic-bike-share-data-analysis-using-python" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/The%20number%20of%20rides%20given%20season.png" alt="Cyclistic Bike Share" width="40%" height="40%"/> </a> </p>
  
 

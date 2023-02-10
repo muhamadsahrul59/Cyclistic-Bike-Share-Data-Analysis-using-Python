@@ -10,15 +10,15 @@
  
  
 1. **% of rides for each user type**
-  <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/%25%20of%20rides%20for%20each%20user%20type.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+  <p align="center"> <a href="https://www.kaggle.com/code/sahrul59/cyclistic-bike-share-data-analysis-using-python" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/%25%20of%20rides%20for%20each%20user%20type.png" alt="Spotify Data Analysis using Python" width="60%" height="60%"/> </a> </p>
  
 2. **The number of rides provided on weekdays**
-  <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Regression%20plot%20-%20Correlation%20between%20Loudness%20and%20Energy.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+  <p align="center"> <a href="https://www.kaggle.com/code/sahrul59/cyclistic-bike-share-data-analysis-using-python" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/The%20number%20of%20rides%20provided%20on%20weekdays.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
  
 3. **Average ride duration given weekday**
- <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Regression%20plot%20-%20Correlation%20between%20Popularity%20and%20Acousticness.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+ <p align="center"> <a href="https://www.kaggle.com/code/sahrul59/cyclistic-bike-share-data-analysis-using-python" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/Average%20ride%20duration%20given%20weekday.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
  
 4. **The number of rides given season**
- <p align="center"> <a href="https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python" target="_blank"> <img src="https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python/blob/main/images/Distibution%20plot%20-%20Visualize%20total%20number%20of%20songs%20on%20Spotify%20since%201992.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
+ <p align="center"> <a href="https://www.kaggle.com/code/sahrul59/cyclistic-bike-share-data-analysis-using-python" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/The%20number%20of%20rides%20given%20season.png" alt="Spotify Data Analysis using Python" width="80%" height="80%"/> </a> </p>
  
 

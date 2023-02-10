@@ -1,5 +1,21 @@
 <h1 align="center"> <a href="https://www.kaggle.com/datasets/evangower/cyclistic-bike-share" target="_blank"> <img src="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/cyclistic.svg" alt="Cyclistic" width="55" height="40"/> </a> Cyclistic Bike Share Data Analysis using Python <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
 
+**I'm sharing an Exploratory Data Analysis (EDA) and Data Visualization of the data from Kaggle Cyclistic Bike Share using Python - A Data Analysis Project performed in my journey into Data Analytics.**
+
+### Introduction 
+
+<p align="center"> <a href="https://www.kaggle.com/code/sahrul59/cyclistic-bike-share-data-analysis-using-python" target="_blank"> <img src="http" alt="https://github.com/muhamadsahrul59/Cyclistic-Bike-Share-Data-Analysis-using-Python/blob/main/images/dataset-cover.jpg" width="50%" height="10%"/> </a> </p>
+
+This case study is part of the Google Data Analytics Professional Certificate. The certificate program covers the data analysis process, as defined by Google:
+
+1. Ask
+2. Prepare
+3. Process
+4. Analyze
+5. Share
+6. Act
+
+
 ## Technologies used ⚙️
 
 * <a href="https://github.com/mrankitgupta/Python-Lessons">Python</a> <a href="https://github.com/mrankitgupta/Python-Lessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="20"/> </a>
